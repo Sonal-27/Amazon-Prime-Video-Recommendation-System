@@ -1,4 +1,4 @@
-# Amazon-Prime-Video-Recommendation-System
+# Amazon-Prime Video Recommendation System
 
 ## ABSTRACT
 In recent years, recommendation systems have evolved as a solution to the problem of information overload by presenting users with the most appropriate products from a vast amount of data. The goal of online collaborative movie ideas for media products is to assist customers in obtaining their favorite films by pinpointing precisely identical people or films from their prior shared searches. The lack of data makes neighbor choosing more difficult with the rapid development of movies and consumers. This study demonstrates the capability of ML models to recommend the user with the top 5 recommendations when the user starts searching for a particular movie or TV-show with respective to its genre, description, cast, director, etc. In particular, four standards models, such as KNN, Gaussian Naive Bayes, Complement Naive Bayes, and Bernoulli Naive Bayes have been used in this study.
